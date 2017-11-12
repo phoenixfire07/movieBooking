@@ -27,5 +27,6 @@
             <Font size="20.0" />
          </font></Label>
       <Label fx:id="infoLabel" layoutX="320.0" layoutY="60.0" opacity="0.0" prefHeight="199.0" prefWidth="194.0" style="-fx-background-color: white;" />
+      <Button fx:id="ActivityBTN" layoutX="261.0" layoutY="312.0" mnemonicParsing="false" onAction="#ViewActivity" prefHeight="27.0" prefWidth="105.0" text="View Activity" />
    </children>
 </AnchorPane>
